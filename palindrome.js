@@ -7,7 +7,7 @@ for(let i=str.length-1;i>=0;i--){
 }
 
 if(emt_str==str){
-    console.log("not palindrome")
+    console.log(" palindrome")
 }else{
-    console.log("palindrome")
+    console.log(" not palindrome")
 }
